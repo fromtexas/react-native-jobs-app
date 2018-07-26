@@ -5,7 +5,7 @@
     "axios": "^0.17.1",
     "expo": "^23.0.0",
     "latlng-to-zip": "0.0.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.10",
     "qs": "^6.5.1",
     "react": "16.0.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz",
@@ -15,5 +15,8 @@
     "redux": "^3.7.2",
     "redux-persist": "^5.4.0",
     "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "fresh": "^0.5.2"
   }
 }
